@@ -42,11 +42,9 @@ No último ano, comecei a expandir meu conhecimento para o **Flutter** e atualme
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
----
+<br>
 
-## 📧 Meu e-mail
-
-💌 Clique para copiar:
+📧 **E-mail:**  
 <pre>
 seuemail@dominio.com
 </pre>
