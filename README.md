@@ -38,7 +38,7 @@ No último ano, comecei a expandir meu conhecimento para o **Flutter** e atualme
 
 ## 📫 Como me encontrar
 
-[![https://www.linkedin.com/in/luizhenriquepadilha77/](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
+[![Luiz Padilha](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/luizhenriquepadilha77/))
 
 ---
 
