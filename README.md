@@ -31,9 +31,10 @@ Em 2024, comecei a expandir meu conhecimento para o **Flutter** participando de 
 
 ## 💬 Sobre mim
 
-- 📅 Atuo na área desde 2019
-- 📌 Focado em backend, mas explorando novas tecnologias no frontend
-- ✨ Sempre aprendendo e buscando melhorar minhas habilidades
+- 📅 Atuo na área desde 2019 como desenvolvedor backend.
+- 🚀 Tenho sólida experiência no desenvolvimento de APIs e na integração com bancos de dados relacionais (PostgreSQL) e outros frameworks Java.
+- 🛠️ Exploro continuamente novas tecnologias no frontend (como Angular) para me tornar um desenvolvedor mais completo.
+- ✨ Sou motivado pelo aprendizado constante e pela busca de soluções eficientes.
 
 ---
 
@@ -45,6 +46,4 @@ Em 2024, comecei a expandir meu conhecimento para o **Flutter** participando de 
 
 <br/>
 📧 **E-mail:**  
-<pre>
-luizpadilha5@gmail.com
-</pre>
+`luizpadilha5@gmail.com`
