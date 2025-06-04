@@ -42,5 +42,9 @@ No último ano, comecei a expandir meu conhecimento para o **Flutter** e atualme
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<a href="mailto:luizpadilha5@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+</a>
+
 ---
 
