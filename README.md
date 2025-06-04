@@ -44,6 +44,12 @@ Em 2024, comecei a expandir meu conhecimento para o **Flutter** participando de 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br/>
+<p>
+  <br/>
+</p>
+
 📧 **E-mail:**  
-`luizpadilha5@gmail.com`
+<pre>
+luizpadilha5@gmail.com
+</pre>
+
