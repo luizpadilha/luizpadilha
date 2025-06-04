@@ -24,7 +24,7 @@ No último ano, comecei a expandir meu conhecimento para o **Flutter** e atualme
 ## 📈 Estatísticas do GitHub
 
 ![Luiz Padilha](https://github-readme-stats.vercel.app/api?username=luizpadilha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpadilha&layout=compact&theme=radical)
 
 ---
 
@@ -46,5 +46,5 @@ No último ano, comecei a expandir meu conhecimento para o **Flutter** e atualme
 <br/>
 📧 **E-mail:**  
 <pre>
-seuemail@dominio.com
+luizpadilha5@gmail.com
 </pre>
