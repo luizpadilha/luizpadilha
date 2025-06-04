@@ -23,7 +23,7 @@ No último ano, comecei a expandir meu conhecimento para o **Flutter** e atualme
 
 ## 📈 Estatísticas do GitHub
 
-![Luiz Padilha](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
+![Luiz Padilha](https://github-readme-stats.vercel.app/api?username=luizpadilha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=radical)
 
 ---
@@ -38,7 +38,7 @@ No último ano, comecei a expandir meu conhecimento para o **Flutter** e atualme
 
 ## 📫 Como me encontrar
 
-[![Luiz Padilha](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/luizhenriquepadilha77/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizhenriquepadilha77)
 
 ---
 
