@@ -43,7 +43,6 @@ No último ano, comecei a expandir meu conhecimento para o **Flutter** e atualme
 </a>
 
 <br/>
-<br/>
 📧 **E-mail:**  
 <pre>
 luizpadilha5@gmail.com
