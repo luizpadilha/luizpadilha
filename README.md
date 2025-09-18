@@ -24,8 +24,8 @@ Em 2024, comecei a expandir meu conhecimento para o **Flutter** participando de 
 
 ## 📈 Estatísticas do GitHub
 
-![Luiz Padilha](https://github-readme-stats.vercel.app/api?username=luizpadilha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpadilha&layout=compact&theme=radical)
+![Luiz Padilha](https://github-readme-stats-luizpadilhas-projects.vercel.app/api?username=luizpadilha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-luizpadilhas-projects.vercel.app/api/top-langs/?username=luizpadilha&layout=compact&theme=radical)
 
 ---
 
